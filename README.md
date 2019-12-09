@@ -1,4 +1,4 @@
-A simple pogram to change MAC address on linux distributions. Requires root access.
+A simple pogram to change MAC address on linux distributions
 
 Usage:
 ```
